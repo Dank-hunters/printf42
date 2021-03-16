@@ -1,3 +1,1 @@
-# ft_printf42
-# printf42
-# printf42
+le ft_printf pour l'ecole 42.
