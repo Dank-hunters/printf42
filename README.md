@@ -1,1 +1,3 @@
-le ft_printf pour l'ecole 42.
+This is my FT_PRINTF
+
+This project make me recode the true printf with his behavior and undifine behavior
